@@ -7,6 +7,7 @@ This is the smart contract code for [EBBS social](https://github.com/cfelde/ebbs
 Assuming you have [Truffle](https://www.trufflesuite.com/) installed you can run the usual commands:
 
 truffle build
+
 truffle test
 
 If you just want to try it out, see [ebbs.social](https://ebbs.social)
